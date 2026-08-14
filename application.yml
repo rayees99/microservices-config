@@ -1,6 +1,6 @@
 spring:
   application:
-    name: microservices-config
+    name: USER-SERVICE
 
 management:
   endpoints:
